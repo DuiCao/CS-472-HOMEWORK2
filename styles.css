@@ -1,0 +1,35 @@
+h1{
+    background-color: rgb(21, 255, 0);
+    text-align:center
+      
+}
+
+h2{
+    text-align:center;
+    font-size: 28px;
+    font-weight: bold;
+    background-color: #f4f4f4;
+}
+
+
+.cd{
+    background-color: antiquewhite;
+    padding: 15px 20px; 
+    
+}
+
+h1.cd{
+    background-color:aquamarine;
+    font-family:Times New Roman;
+
+}
+
+ol {
+    text-align: center;
+    font-family: Arial;
+    color:blueviolet;
+    
+}
+
+
+
